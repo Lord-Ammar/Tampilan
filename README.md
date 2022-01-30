@@ -1,5 +1,6 @@
 # Tampilan
-Untuk Mengubah Tampilan Termux
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Mengubah+Tampilan+Termux+Use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=This+My+Github+©AmmarBN)](https://git.io/typing-svg)
 
 ## Gambar
  <img src="https://github.com/Lord-Ammar/tampilan/blob/main/IMG_20220131_001444.jpg" width="440" title="Menu" alt="Menu">
