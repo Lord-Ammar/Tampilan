@@ -18,3 +18,13 @@ bash tampilan.sh
 hapus semuanya Lalu SV klik ctrl x ctrl y lalu enter
 Dan Berubah
 ```
+
+### Thanks To 
+**Allah SWT**,
+
+**Orang Tua**,
+
+**Semua yang selalu mendukung**
+
+## Developer
+[![AmmarBN](https://github.com/Lord-Ammar.png?size=100)](https://github.com/Lord-Ammar)
