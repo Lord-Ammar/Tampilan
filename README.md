@@ -19,6 +19,8 @@ Ikutin Yang Ada Di video Tinggal
 Copy Paste Kok Gan😉
 ```
 
+<a href="https://youtube.com/channel/https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Sanz" height="30" width="40" /></a> Klik Icon YouTube Kalau Belum Paham
+
 ### Thanks To 
 **Allah SWT**,
 
