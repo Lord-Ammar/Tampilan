@@ -15,8 +15,8 @@ pkg install bash
 git clone https://github.com/Lord-Ammar/tampilan
 cd tampilan
 bash tampilan.sh
-hapus semuanya Lalu SV klik ctrl x ctrl y lalu enter
-Dan Berubah
+Ikutin Yang Ada Di video Tinggal 
+Copy Paste Kok Gan😉
 ```
 
 ### Thanks To 
