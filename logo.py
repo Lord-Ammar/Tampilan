@@ -1,3 +1,59 @@
+#Open Source Jangan Di Decode Ntarr Eror
+#Ganti Nama Nya Aja Yg lainnya Jangan Ngab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import os,sys,time
 localtime = time.asctime(time.localtime(time.time()))
 
